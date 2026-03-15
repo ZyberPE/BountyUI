@@ -1,0 +1,15 @@
+messages:
+
+  no_players: "§cNo players available."
+
+  self_bounty: "§cYou cannot place a bounty on yourself."
+
+  invalid_amount: "§cInvalid bounty amount."
+
+  not_enough_money: "§cYou do not have enough money."
+
+  already_has_bounty: "§cThis player already has a bounty."
+
+  bounty_set_broadcast: "§6[Bounty] §e{player} placed a bounty of §a${amount} §eon §c{target}!"
+
+  bounty_claimed_broadcast: "§6[Bounty] §c{target} §ewas killed by §a{killer} §eand received §a${amount}!"
