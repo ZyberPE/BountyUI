@@ -12,7 +12,12 @@ commands:
   bounty:
     description: Open bounty menu
     permission: bounty.use
+  topbounties:
+    description: Manage bounty leaderboard
+    permission: bountyui.admin
 
 permissions:
+  bountyui.admin:
+    default: op
   bounty.use:
     default: true
