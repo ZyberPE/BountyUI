@@ -13,3 +13,19 @@ messages:
   bounty_set_broadcast: "§6[Bounty] §e{player} placed a bounty of §a${amount} §eon §c{target}!"
 
   bounty_claimed_broadcast: "§6[Bounty] §c{target} §ewas killed by §a{killer} §eand received §a${amount}!"
+
+update-interval: 60
+
+topbounties:
+  title: "&6&lTop Bounties"
+  lines:
+    - "&e#1 &f{player1} &7- &a${value1}"
+    - "&e#2 &f{player2} &7- &a${value2}"
+    - "&e#3 &f{player3} &7- &a${value3}"
+    - "&e#4 &f{player4} &7- &a${value4}"
+    - "&e#5 &f{player5} &7- &a${value5}"
+    - "&e#6 &f{player6} &7- &a${value6}"
+    - "&e#7 &f{player7} &7- &a${value7}"
+    - "&e#8 &f{player8} &7- &a${value8}"
+    - "&e#9 &f{player9} &7- &a${value9}"
+    - "&e#10 &f{player10} &7- &a${value10}"
