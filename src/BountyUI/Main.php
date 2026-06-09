@@ -13,7 +13,8 @@ use pocketmine\Server;
 use pocketmine\event\Listener;
 use pocketmine\event\entity\EntityDeathEvent;
 use pocketmine\event\entity\EntityDamageByEntityEvent;
-
+use BountyUI\LeaderboardManager;
+use BountyUI\task\UpdateTask;
 use onebone\economyapi\EconomyAPI;
 use jojoe77777\FormAPI\CustomForm;
 
